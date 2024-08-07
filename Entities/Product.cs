@@ -8,5 +8,6 @@
         public double? Price { get; set; }
         public decimal? Amount { get; set; }
         public bool Active { get; set; }
+        public int Teste { get; set; }
     }
 }
