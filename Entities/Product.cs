@@ -9,5 +9,6 @@
         public decimal? Amount { get; set; }
         public bool Active { get; set; }
         public bool Teste { get; set; }
+        public int Teste { get; set; }
     }
 }
